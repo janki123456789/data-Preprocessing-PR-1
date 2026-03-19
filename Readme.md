@@ -113,8 +113,9 @@ Generated using **Pandas Profiling**.
 - Feature Correlations  
 - Data Quality Warnings  
 
-👉 View Full Report:  
-[Open Profiling Report](data_profile_report.html)
+👉 View Full Report: 
+
+- [data Profiling Report](data_profile_report.html)
 
 ---
 
