@@ -113,11 +113,13 @@ Generated using **Pandas Profiling**.
 - Feature Correlations  
 - Data Quality Warnings  
 
-👉 View Full Report: 
+👉 Multivariate Analysis
 
-- [data Profiling Report.html](https://github.com/janki123456789/data-Preprocessing-PR-1/Customer_perchease_Report.html)
+- **Correlation Heatmap**
+![Heatmap](heatmap.png)
 
----
+- **Pair Plots**
+![PairPlots](pairplot.png)
 
 # 🛠️ Technologies Used
 
