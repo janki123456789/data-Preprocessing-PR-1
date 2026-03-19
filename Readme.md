@@ -115,7 +115,7 @@ Generated using **Pandas Profiling**.
 
 👉 View Full Report: 
 
-- [data Profiling Report](https://github.com/janki123456789/data-Preprocessing-PR-1/data_profile_report.html)
+- [data Profiling Report](https://github.com/janki123456789/data-Preprocessing-PR-1/Customer_perchease_Report.html)
 
 ---
 
